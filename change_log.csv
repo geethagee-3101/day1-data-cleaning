@@ -1,0 +1,5 @@
+Issue,Problem Found,Action Taken
+Missing Age,177,Filled with median age
+Missing Cabin,687,Filled with Unknown
+Missing Embarked,2,Filled with most common port
+Duplicates,0,No duplicates found; no action needed
